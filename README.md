@@ -1,2 +1,5 @@
-# qr-code
- frontend-mentor-io-qr-cdoe
+# Frontendmentor QR Code
+
+## Screenshot
+
+![Example Image](./assets/images/live-view.png)
